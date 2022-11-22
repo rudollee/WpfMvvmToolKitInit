@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace WpfMvvmToolKitInit
+namespace WpfMvvmToolKitInit.ViewModels
 {
     [ObservableObject]
     public partial class MainWindowViewModel
